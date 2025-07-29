@@ -1,9 +1,9 @@
 # Hi 👋 I am Checco!!!
 
-- 😄 I am a PhD student in quantum computing, quantum machine learning (QML) and AI in the context of healthcare/medical data and imaging at the Universitat Pompeu Fabra (UPF), collaborating with Barcelona Supercomputing Center (BSC).
+- 😄 I am a PhD student in quantum computing, quantum machine learning (QML), and AI in the context of healthcare/medical data and imaging at the Universitat Pompeu Fabra (UPF), collaborating with Barcelona Supercomputing Center (BSC).
   In particular, I work both in digital and analog quantum computing, focusing on variational quantum algorithms (VQAs), encoding schemes, and quantum annealers (QAs) to solve combinatorial
-  optimization problems (COPs). I plan to get much experience using different tools and frameworks. Moreover, I would also like to try tensor networks (TNs) for
-  large circuits and physical systems. I got my bachelor's degree in Physics from the University of Modena and Reggio Emilia, while I got my master's from the University of Bologna in Theoretical Physics.
+  optimization problems (COPs). I also would like to use Tesnor Networks (TNs) for large-system simulations. I plan to gain extensive experience using various tools and frameworks. Moreover, I would also like to try tensor networks (TNs) for
+  large circuits and physical systems. I obtained my bachelor's degree in Physics from the University of Modena and Reggio Emilia, and my master's degree in Theoretical Physics from the University of Bologna.
   Then, I did an internship at Cineca supercomputing center and a 7-month-long period as a research fellow at the University of Florence.
 - 👀 Love eating, chess, outdoor sports, thinking, meeting people, hanging out, programming, learning, AI, quantum, and sooo on...
 - 🌱 I’m constantly improving myself and my skills since I have lots of things to learn!
