@@ -1,9 +1,48 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Pagina-1" id="9_9PVb5XfEbpxvLzxGaj">
-    <mxGraphModel>
+    <mxGraphModel dx="946" dy="610" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sV4lZ-rMghmbl5xB3a0G-1" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="146" y="256" as="sourcePoint" />
+            <mxPoint x="146" y="93" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sV4lZ-rMghmbl5xB3a0G-3" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="147" y="255" as="sourcePoint" />
+            <mxPoint x="343" y="253" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sV4lZ-rMghmbl5xB3a0G-4" value="" style="endArrow=oval;html=4;rounded=0;strokeColor=light-dark(#FFC526,#FFEA63);curved=0;strokeWidth=3;shadow=1;flowAnimation=1;startSize=9;sourcePerimeterSpacing=4;startArrow=none;startFill=0;endSize=9;endFill=1;" edge="1" parent="1" source="sV4lZ-rMghmbl5xB3a0G-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="128" as="sourcePoint" />
+            <mxPoint x="300" y="238" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sV4lZ-rMghmbl5xB3a0G-9" value="" style="endArrow=oval;html=1;rounded=0;strokeColor=light-dark(#96B9FF,#80A3EA);strokeWidth=3;flowAnimation=1;shadow=1;sourcePerimeterSpacing=-6;targetPerimeterSpacing=5;endSize=9;startArrow=none;startFill=0;endFill=1;jumpStyle=none;" edge="1" parent="1" source="sV4lZ-rMghmbl5xB3a0G-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="155" y="239" as="sourcePoint" />
+            <mxPoint x="305" y="122" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sV4lZ-rMghmbl5xB3a0G-11" value="" style="endArrow=none;html=1;rounded=0;strokeColor=light-dark(#96B9FF,#3399FF);strokeWidth=3;sourcePerimeterSpacing=-2;flowAnimation=1;startArrow=oval;startFill=1;endSize=9;startSize=9;targetPerimeterSpacing=5;shadow=1;fillColor=#dae8fc;entryX=0.329;entryY=0.829;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="sV4lZ-rMghmbl5xB3a0G-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="163" y="241" as="sourcePoint" />
+            <mxPoint x="210" y="203" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sV4lZ-rMghmbl5xB3a0G-13" value="" style="endArrow=none;html=4;rounded=0;strokeColor=light-dark(#FFC526,#FFEA63);curved=0;strokeWidth=3;shadow=1;flowAnimation=1;startSize=9;sourcePerimeterSpacing=4;startArrow=oval;startFill=1;endSize=9;endFill=0;" edge="1" parent="1" target="sV4lZ-rMghmbl5xB3a0G-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="128" as="sourcePoint" />
+            <mxPoint x="300" y="238" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sV4lZ-rMghmbl5xB3a0G-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.8_point_star;fillColor=light-dark(#FF3333,#FFEA63);rotation=30;strokeColor=#CC0000;sketch=1;curveFitting=1;jiggle=2;shadow=1;perimeterSpacing=4;strokeWidth=1;gradientColor=#FFD26B;opacity=90;" vertex="1" parent="1">
+          <mxGeometry x="210" y="158" width="49" height="53" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
